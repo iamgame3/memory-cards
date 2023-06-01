@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "Saiyan-Sans";
+  src: url(./fonts/Saiyan-Sans.ttf) format(truetype);
+}
+
+body {
+  background-color: rgb(255, 166, 0);
+  font-family: "Saiyan-Sans", Arial, Helvetica, sans-serif;
+}
+
+.title-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: rgb(34, 34, 255);
+}
+
+.title {
+  margin-bottom: 0;
+  font-size: 50px;
+}
