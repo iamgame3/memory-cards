@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b4d55d3a.css",
+    "main.js": "/static/js/main.0c79549f.js",
+    "static/media/trunks.jpg": "/static/media/trunks.5c2a7f1506c746676660.jpg",
+    "static/media/vegeta.png": "/static/media/vegeta.54efb5163f80ca7ff9a3.png",
+    "static/media/frieza.jpg": "/static/media/frieza.ec45f27bcdd957a2363c.jpg",
+    "static/media/goku.jpg": "/static/media/goku.43591e90e72c79be1a69.jpg",
+    "static/media/tien.jpg": "/static/media/tien.cb4af376aafb00a047aa.jpg",
+    "static/media/cell.jpg": "/static/media/cell.77537f98c85cb8f2c470.jpg",
+    "static/media/vegito.jpg": "/static/media/vegito.e97fddc59168c672a3a0.jpg",
+    "static/media/gohan.jpg": "/static/media/gohan.e4d3b88e673ef5fdfefe.jpg",
+    "static/media/krillin.jpg": "/static/media/krillin.de44bb578d8086d4c9ad.jpg",
+    "static/media/gogeta.jpg": "/static/media/gogeta.25c108b4f9b6aa0938b6.jpg",
+    "static/media/piccolo.jpeg": "/static/media/piccolo.f6c1c7b781bf38d1d10f.jpeg",
+    "static/media/buu.jpg": "/static/media/buu.ce532f7f7491d6bb7e15.jpg",
+    "static/media/Saiyan-Sans.ttf": "/static/media/Saiyan-Sans.daf700d2a47edf876686.ttf",
+    "index.html": "/index.html",
+    "main.b4d55d3a.css.map": "/static/css/main.b4d55d3a.css.map",
+    "main.0c79549f.js.map": "/static/js/main.0c79549f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4d55d3a.css",
+    "static/js/main.0c79549f.js"
+  ]
+}
