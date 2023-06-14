@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: rgb(255, 166, 0);
+  background-color: rgb(255, 102, 0);
   font-family: "Saiyan-Sans", Arial, Helvetica, sans-serif;
 }
 
@@ -18,4 +18,40 @@ body {
 .title {
   margin-bottom: 0;
   font-size: 50px;
+}
+
+.cards-container {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  grid-template-columns: repeat(auto-fit, 264px);
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 16px;
+  padding: 16px;
+  border: 2px solid black;
+  border-radius: 8px;
+  background-color: rgb(252, 151, 0);
+  cursor: pointer;
+}
+
+.card:hover {
+  box-shadow: 0 0 32px rgb(255, 190, 92);
+}
+
+.card-image {
+  border-radius: 8px;
+  width: 200px;
+  height: 200px;
+}
+
+.card-caption {
+  margin-top: 16px;
+  margin-bottom: 0;
+  color: red;
 }

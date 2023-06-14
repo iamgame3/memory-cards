@@ -2,9 +2,15 @@
 /* eslint-disable react/react-in-jsx-scope */
 import React from "react";
 import Title from "./title";
+import Cards from "./cards";
 
 function App() {
-  return <Title />;
+  return (
+    <>
+      <Title />
+      <Cards />
+    </>
+  );
 }
 
 export default App;
