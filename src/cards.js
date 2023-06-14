@@ -54,6 +54,7 @@ function Cards() {
       card.classList.add("card");
       card.appendChild(imageElement);
       card.appendChild(imageCaption);
+      card.addEventListener("click", randomiseImages);
       cardsContainer.appendChild(card);
     });
   };

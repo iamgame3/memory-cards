@@ -55,3 +55,19 @@ body {
   margin-bottom: 0;
   color: red;
 }
+
+.scores {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 8px;
+  top: 0;
+  right: 0;
+  padding: 32px;
+}
+
+.score {
+  margin: 0;
+}
